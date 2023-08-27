@@ -27,9 +27,9 @@
 ############################################
 ## 01.      File to import to CSV
 ############################################
-$path = "P:\Cyber\splunk\VPN Mission\"            # directory path of script and data
-$inFile = "$path\AFNET_VPN_31Oct_port1194.csv"               # csv File read in
-$outFile = "$path\AFNET_VPN_31Oct_port1194_results.csv"      # designate filepath for target data to be written to
+$path =        # directory path of script and data
+$inFile =      # csv File read in
+$outFile =     # designate filepath for target data to be written to
 
 
 ## Test for active file
